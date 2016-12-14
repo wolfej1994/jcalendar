@@ -1,2 +1,1 @@
-# jcalendar
-calendar api
+# calendar
